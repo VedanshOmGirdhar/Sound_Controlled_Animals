@@ -1,0 +1,25 @@
+.heading{
+    color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: grey;
+    padding: 50px;
+}
+
+button{
+    width: 15%;
+    margin: 20px;
+    font-size: 25px;
+    }
+
+.main_div{
+        background-color:palegreen;
+        padding: 100px;
+    }
+.copyright_footer{
+text-align: center;
+font-family: cursive;
+font-size: 25px;
+margin: 40px;
+    }
